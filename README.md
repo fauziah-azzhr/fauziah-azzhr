@@ -1,4 +1,4 @@
-## Hi there 👋 Fauziah Az Zahra
+## Hi 👋 I'm Fauziah Az Zahra
 
 <!--
 **fauziah-azzhr/fauziah-azzhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
